@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/Users/m.barroso/Desktop/projeto_android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1965" />
         <entry key="..\:/Users/m.barroso/Desktop/projeto_android/app/src/main/res/drawable/ic_simulate.xml" value="0.1965" />
-        <entry key="..\:/Users/m.barroso/Desktop/projeto_android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/m.barroso/Desktop/projeto_android/app/src/main/res/layout/activity_main.xml" value="0.4224037339556593" />
+        <entry key="..\:/Users/m.barroso/Desktop/projeto_android/app/src/main/res/layout/match_item.xml" value="0.4466666666666667" />
       </map>
     </option>
   </component>
@@ -14,5 +15,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
   </component>
 </project>
